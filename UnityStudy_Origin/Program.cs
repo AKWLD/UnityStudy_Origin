@@ -19,7 +19,7 @@
 
                     for (int x = 1; x <= 9; x++)
                        
-                        Console.WriteLine($" {z}X{x} = {x*z}");
+                    Console.WriteLine($"{z} X {x} = {x*z}");
                     Console.WriteLine();
                 }
             }
