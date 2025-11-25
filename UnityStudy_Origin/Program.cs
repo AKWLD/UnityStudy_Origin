@@ -1,28 +1,28 @@
-﻿namespace UnityStudy_Origin
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            //int num = 1;
+﻿//namespace UnityStudy_Origin
+//{
+//    internal class Program
+//    {
+//        static void Main(string[] args)
+//        {
+//            //int num = 1;
 
-            //while (num <= 10)
-            //{
-            //    Console.WriteLine(num);
+//            //while (num <= 10)
+//            //{
+//            //    Console.WriteLine(num);
 
-            //    num++;
+//            //    num++;
 
-            {
-                for (int z = 2; z <= 9; z++)
-                {
-                    Console.WriteLine($"{z}단");  
+//            {
+//                for (int z = 2; z <= 9; z++)
+//                {
+//                    Console.WriteLine($"{z}단");  
 
-                    for (int x = 1; x <= 9; x++)
+//                    for (int x = 1; x <= 9; x++)
                        
-                    Console.WriteLine($"{z} X {x} = {x*z}");
-                    Console.WriteLine();
-                }
-            }
-        }
-    }
-}
+//                    Console.WriteLine($"{z} X {x} = {x*z}");
+//                    Console.WriteLine();
+//                }
+//            }
+//        }
+//    }
+//}
